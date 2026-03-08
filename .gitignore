@@ -1,3 +1,4 @@
 hand_landmarker.task
 *.task
 venv
+__pycache__
